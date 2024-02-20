@@ -1,3 +1,5 @@
+![minimalist linkedin banner](https://github.com/nicolasbranco/nicolasbranco/assets/26121487/f711312d-c114-4e39-b863-3e8936af1458)
+
 ## Hello, I’m Nicolas, nice to meet you 👋
 
 Currently, a researcher and data scientist with 5+ years of experience. During that time I’ve worked mostly with machine learning and deep learning, using timeseries, tabular data, image data, NLP in classification and regression problems. Also experienced in data mining, pre & postprocessing, analysis and visualization.
